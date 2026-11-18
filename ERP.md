@@ -72,4 +72,4 @@ Point du jour, questions en langage courant et réponses à la voix. Toute actio
 
 Recueil des besoins, spécifications, modèle de données (64 tables), développement assisté par IA, tests, mise en ligne et formation des utilisateurs.
 
-[← Retour au profil](README.md) · [Boutique en ligne](https://allobeton.sn) · [LinkedIn](https://www.linkedin.com/in/fatoumata-fall-ab2209265) · [Portfolio](https://claude.ai/artifact/9K6N5YEhBRefgBWcJVUzrn)
+[← Retour au profil](README.md) · [Boutique en ligne](https://allobeton.sn) · [LinkedIn](https://www.linkedin.com/in/fatoumata-fall-76ba851ba) · [Portfolio](https://claude.ai/artifact/9K6N5YEhBRefgBWcJVUzrn)
