@@ -65,8 +65,8 @@ ERP sur mesure et boutique en ligne d’**ICOPS SUARL**, qui livre du silex et d
 | Période | Poste ou diplôme |
 |---|---|
 | **2024 – aujourd’hui** | Cheffe de projet et développeuse, **ICOPS SUARL** (Allô Béton) |
-| **2021 – 2024** | **Ministère de l’Éducation nationale** : développeuse web (SIMEN), chargée de communication, formatrice |
 | **2023 – 2025** | **Master 2** Management de la Transformation Digitale, spécialité Finance digitale, ESMT Dakar |
+| **2021 – 2024** | **Ministère de l’Éducation nationale** : développeuse web (SIMEN), chargée de communication, formatrice |
 | **2018 – 2021** | **Licence** Management Informatisé des Organisations, Université Assane Seck de Ziguinchor |
 
 ## Langues
