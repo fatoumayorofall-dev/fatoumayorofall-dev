@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fatoumata-fall-76ba851ba"><img src="https://img.shields.io/badge/LinkedIn-Fatoumata_Fall-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://fatoumayorofall-dev.github.io"><img src="https://img.shields.io/badge/Portfolio-fatoumayorofall--dev.github.io-E9A21B?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://allobeton.sn"><img src="https://img.shields.io/badge/All%C3%B4_B%C3%A9ton-allobeton.sn-121A2C?style=for-the-badge" alt="Allô Béton"></a>
   <a href="mailto:fatoumayorofall@gmail.com"><img src="https://img.shields.io/badge/E--mail-fatoumayorofall%40gmail.com-136A50?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <a href="CV-Fatoumata-Fall.pdf"><img src="https://img.shields.io/badge/CV-PDF-B03A2E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV en PDF"></a>
