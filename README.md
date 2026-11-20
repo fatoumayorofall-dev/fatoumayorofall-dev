@@ -15,7 +15,7 @@
   <a href="https://fatoumayorofall-dev.github.io"><img src="https://img.shields.io/badge/Portfolio-fatoumayorofall--dev.github.io-E9A21B?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://fatoumayorofall-dev.github.io/allobeton/"><img src="https://img.shields.io/badge/App_web_%26_mobile-derni%C3%A8re_version-121A2C?style=for-the-badge" alt="Application web et mobile Allô Béton"></a>
   <a href="mailto:fatoumayorofall@gmail.com"><img src="https://img.shields.io/badge/E--mail-fatoumayorofall%40gmail.com-136A50?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <a href="CV-Fatoumata-Fall.pdf"><img src="https://img.shields.io/badge/CV-PDF-B03A2E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV en PDF"></a>
+  <a href="https://fatoumayorofall-dev.github.io/Fatoumata-Fall-CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-B03A2E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV en PDF"></a>
 </p>
 
 <p align="center">
@@ -101,4 +101,4 @@ ERP sur mesure et boutique en ligne d’**ICOPS SUARL**, qui livre du silex et d
 
 Français · Wolof · Anglais (professionnel)
 
-<p align="center"><b><a href="CV-Fatoumata-Fall.pdf">Télécharger mon CV (PDF)</a></b> · <a href="https://www.linkedin.com/in/fatoumata-fall-76ba851ba">Me contacter sur LinkedIn</a> · <a href="mailto:fatoumayorofall@gmail.com">fatoumayorofall@gmail.com</a></p>
+<p align="center"><b><a href="https://fatoumayorofall-dev.github.io/Fatoumata-Fall-CV.pdf">Télécharger mon CV (PDF)</a></b> · <a href="https://www.linkedin.com/in/fatoumata-fall-76ba851ba">Me contacter sur LinkedIn</a> · <a href="mailto:fatoumayorofall@gmail.com">fatoumayorofall@gmail.com</a></p>
