@@ -19,7 +19,11 @@
 </p>
 
 <p align="center">
-  🟢 <b>Ouverte aux opportunités</b> : chef de projet ERP ou digital, consultante ERP, transformation digitale · Dakar, Sénégal et UEMOA · sur site, hybride ou à distance
+  🟢 <b>Ouverte aux opportunités</b> : chef de projet ERP ou digital, consultante ERP, transformation digitale, produits digitaux télécoms et fintech · Dakar, Sénégal et UEMOA · sur site, hybride ou à distance
+</p>
+
+<p align="center">
+   <b>Finance digitale et services numériques</b> : Master 2 en Finance digitale (ESMT Dakar) et expérience ERP de bout en bout auprès des PME sénégalaises (ventes, encaissements, crédit client, relances WhatsApp). Je souhaite mettre ces compétences au service des paiements mobiles, des offres digitales B2B et de la transformation digitale dans les télécoms.
 </p>
 
 ---
