@@ -46,6 +46,8 @@ ERP sur mesure et boutique en ligne d’**ICOPS SUARL**, qui livre du silex et d
   <img src="img/ab-copilote-mobile.webp" width="200" alt="Copilote IA sur téléphone">
 </p>
 
+<p align="center"><b><a href="https://fatoumayorofall-dev.github.io/demo-erp/">▶ Essayer l’ERP de démonstration (données de test)</a></b></p>
+
 <p align="center"><b><a href="ERP.md">→ Présentation complète de l’ERP : modules, automatisations, livraisons, architecture</a></b></p>
 
 > Le code source appartient à ICOPS SUARL et reste privé. Cette page présente ce que fait le logiciel et comment il est construit. **Démonstration en direct et revue de code possibles lors d’un entretien.**
