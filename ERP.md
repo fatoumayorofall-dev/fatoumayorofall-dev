@@ -60,7 +60,7 @@ Point du jour, questions en langage courant et réponses à la voix. Toute actio
 - **Serveur** : Node.js, Express, MySQL / MariaDB, PDFKit
 - **IA** : Claude (Anthropic SDK)
 - **Messages** : WhatsApp, SMS, e-mail
-- **Hébergement** : Docker, Railway, domaine allobeton.sn
+- **Hébergement** : Docker, Railway, Netlify (https://allobeton.netlify.app)
 
 ## Qualité
 
@@ -72,4 +72,4 @@ Point du jour, questions en langage courant et réponses à la voix. Toute actio
 
 Recueil des besoins, spécifications, modèle de données (64 tables), développement assisté par IA, tests, mise en ligne et formation des utilisateurs.
 
-[← Retour au profil](README.md) · [Boutique en ligne](https://allobeton.sn) · [LinkedIn](https://www.linkedin.com/in/fatoumata-fall-76ba851ba) · [Portfolio](https://fatoumayorofall-dev.github.io)
+[← Retour au profil](README.md) · [Application en ligne](https://allobeton.netlify.app) · [Structure de l’application](ARCHITECTURE.md) · [Démo](https://fatoumayorofall-dev.github.io/demo-erp/) · [LinkedIn](https://www.linkedin.com/in/fatoumata-fall-76ba851ba) · [Portfolio](https://fatoumayorofall-dev.github.io)
