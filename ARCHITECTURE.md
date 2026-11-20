@@ -7,7 +7,7 @@ Conçue et développée par **Fatoumata Fall** depuis 2024.
 
 > Le code source appartient à ICOPS SUARL et reste privé. Cette page décrit son organisation réelle : dossiers, modules, flux de données et tests. Une revue de code en direct est possible lors d’un entretien.
 
-**Application en ligne (web et mobile) :** https://allobeton.netlify.app · **Démo avec données de test :** https://fatoumayorofall-dev.github.io/demo-erp/
+**Application en ligne (web et mobile) :** https://fatoumayorofall-dev.github.io/allobeton/ · **Démo avec données de test :** https://fatoumayorofall-dev.github.io/demo-erp/
 
 ## Vue d’ensemble
 
