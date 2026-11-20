@@ -80,7 +80,7 @@ ERP sur mesure et boutique en ligne d’**ICOPS SUARL**, qui livre du silex et d
 | **nov. 2024 – aujourd’hui** | **Cheffe de projet et développeuse ERP**, ICOPS SUARL, Dakar (Allô Béton) |
 | **févr. 2023 – juil. 2024** | **Formatrice**, Ministère de l’Éducation nationale, Diamniadio |
 | **nov. 2022 – juil. 2024** | **Chargée de communication**, Ministère de l’Éducation nationale, Diamniadio |
-| **déc. 2021 – janv. 2023** | **Développeuse web (stage)**, Ministère de l’Éducation nationale, direction du système d’information (SIMEN) |
+| **déc. 2021 – janv. 2023** | **Développeuse web (stage)**, Ministère de l’Éducation nationale, SIMEN (Système d’information et de management de l’Éducation nationale) |
 | **janv. 2019 – oct. 2020** | **Chargée de communication**, Bureau des étudiants, Université Assane Seck de Ziguinchor |
 
 ## Formation
