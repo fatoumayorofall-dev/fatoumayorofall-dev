@@ -91,7 +91,7 @@ ERP sur mesure et boutique en ligne d’**ICOPS SUARL**, qui livre du silex et d
 |---|---|
 | **2023 – 2025** | **Master 2** Management de la Transformation Digitale, spécialité Finance digitale, ESMT Dakar |
 | **2018 – 2021** | **Licence** Management Informatisé des Organisations, Université Assane Seck de Ziguinchor |
-| **2018** | **Baccalauréat littéraire**, Cabis School, Dakar |
+| **2018** | **Baccalauréat**, Cabis School, Dakar |
 
 ## Langues
 
